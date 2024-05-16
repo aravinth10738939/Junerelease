@@ -1,0 +1,5 @@
+public class Demo1{
+  public void sayHello(){
+    system.debug("This is for JuneRelease");
+      }
+	}
