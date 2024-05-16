@@ -2,4 +2,11 @@ public class Demo1{
   public void sayHello(){
     system.debug("This is for JuneRelease");
       }
-	}
+
+  public void multiply(){
+
+	integer a=10;
+	integer b=20;
+	system.debug(a*b);
+   }
+}
